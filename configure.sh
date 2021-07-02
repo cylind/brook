@@ -9,4 +9,4 @@ install -m 755 /tmp/brook /usr/local/bin/brook
 rm -rf /tmp
 
 # Run V2Ray
-/usr/local/bin/brook wsserver --listen :9999 --password ${passwd}
+/usr/local/bin/brook wsserver --listen :443 --password ${passwd}
