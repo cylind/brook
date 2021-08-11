@@ -1,4 +1,4 @@
 FROM alpine:latest
-ADD configure.sh /configure.sh
-RUN apk add --no-cache ca-certificates && chmod +x /configure.sh
-CMD /configure.sh
+ADD entrypoint.sh /entrypoint.sh
+RUN apk add --no-cache ca-certificates && chmod +x /entrypoint.sh
+CMD /entrypoint.sh
