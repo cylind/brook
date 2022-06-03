@@ -8,7 +8,7 @@
             "value": "brook.pw"
         }
     },
-    "website": "https://github.com/YulinChan/brook-heroku",
-    "repository": "https://github.com/YulinChan/brook-heroku",
+    "website": "",
+    "repository": "https://github.com/YulinChan/brook",
     "stack": "container"
 }
