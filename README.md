@@ -1,8 +1,8 @@
 # Brook
 
-## Image
-
 Lightweight image base on alpine occupied less resource
+
+## Depoly
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
